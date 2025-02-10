@@ -2,8 +2,8 @@
 
 <img src="">
 
-**Created By :** Mahmoud Anwar
-**Email :** Engsahaly@gmail.com
+**Created By :**  Mohamed Ahmed
+**Email :** mohamed.ahmed.rc@gmail.com
 
 This is the main readme file for the project used in laravel Telescope course on Udemy
 
@@ -12,7 +12,7 @@ This is the main readme file for the project used in laravel Telescope course on
 To get started, clone this repository.
 
 ```
-git clone https://github.com/engsahaly/laravel_telescope_course.git
+git clone https://github.com/MohamedAhmedv8/online-hotel-booking.git
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
