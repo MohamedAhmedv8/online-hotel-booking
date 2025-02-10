@@ -10,11 +10,21 @@ About the Project:
 This is a fully functional Online Hotel Booking System built with Laravel, designed to provide users with a seamless and efficient booking experience.
 
 Key Features:
-Secure Payment System: 
+
+Secure Payment System:
+
 Supports PayPal and Stripe for smooth and secure transactions.
+
+
 Real-Time Cart Updates: Utilizes Pusher to update the cart instantly without page reloads.
+
+
 Email Notifications: Sends booking confirmations and updates directly via Email.
+
+
 Admin Dashboard: A professional Filament-powered dashboard for managing bookings and rooms efficiently.
+
+
 Room Availability System: Checks room availability based on selected dates, considering limited room types (e.g., only 5 rooms per type).
 
 
