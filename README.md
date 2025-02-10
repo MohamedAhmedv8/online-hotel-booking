@@ -15,9 +15,7 @@ This is a fully functional Online Hotel Booking System built with Laravel, desig
 
 Key Features:
 
-Secure Payment System:
-
-Supports PayPal and Stripe for smooth and secure transactions.
+Secure Payment System: Supports PayPal and Stripe for smooth and secure transactions.
 
 
 Real-Time Cart Updates: Utilizes Pusher to update the cart instantly without page reloads.
