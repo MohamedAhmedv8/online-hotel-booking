@@ -1,6 +1,6 @@
 ## Online Hotel Booking
 
-<img src="https://drive.google.com/file/d/1PGc5VsU0-DaHLKkfRPW0TUbglemq4gdQ/view?usp=sharing">
+<img src="https://www.technoheaven.net/Theme/img/Hotel-Booking-Software.jpg">
 
 **Created By :**  Mohamed Ahmed
 **Email :** mohamed.ahmed.rc@gmail.com
